@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Nom Nom</string>
+    <string name="txt1">Login</string>
+    <string name="txt2">Username</string>
+    <string name="txt3">Password</string>
+    <string name="btn1">Register</string>
+    <string name="btn2">Login</string>
 </resources>
