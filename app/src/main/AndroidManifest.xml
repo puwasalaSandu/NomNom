@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PlaceOrder"></activity>
+        <activity android:name=".PlaceOrder" />
         <activity android:name=".Menu" />
         <activity android:name=".Register" />
         <activity android:name=".Login" />
